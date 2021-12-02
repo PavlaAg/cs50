@@ -18,5 +18,5 @@ $ gcc division.c libcs50/src/cs50.c -o bin/division
 
 # Run the programs
 ```
-./<program-name>
+./bin/<program-name>
 ```
